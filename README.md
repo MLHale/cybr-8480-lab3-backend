@@ -8,8 +8,8 @@ This repository provides a central location that contains sub-modules related to
 You need to build the docker image from the provided DockerFile using Docker Compose. To do this, ensure docker is running, and then:
 
 ```bash
-git clone --recursive https://github.com/MLHale/CYBR8470-building-a-webservice-lab.git
-cd CYBR8470-building-a-webservice-lab
+git clone --recursive <this url>
+cd <project folder name>
 docker-compose build
 ```
 
